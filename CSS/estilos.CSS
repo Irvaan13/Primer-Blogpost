@@ -4,15 +4,26 @@ body {
     background: rgb(208, 214, 200);
     margin: 0;
     padding: 0; 
+    align-items: center;
 }
 #cuerpo{
     width: 70%;
     padding: 1em;
-    text-align: left;
+    text-align: center;
     border: 2px solid rgb(31, 70, 201);
     margin: 0 auto;
 }
 
 #cuerpo h1{
     font-size: 70px;
+}
+
+#cabecera{
+    width: 70%;
+    color: blue;
+    text-align: center;
+    background: rgb(223, 45, 68);
+    margin: 0;
+    padding: 0; 
+    border: 3px solid rgb(135, 236, 40);
 }
