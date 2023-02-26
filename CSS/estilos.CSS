@@ -12,6 +12,12 @@ body {
     border: 2px solid rgb(31, 70, 201);
     margin: 0 auto;
 }
+#cabecera{
+    color: rgb(231, 227, 223);
+    border: 3px solid saddlebrown;
+    background: red;
+    border-radius: 5px;
+}
 
 #cuerpo h1{
     font-size: 70px;
