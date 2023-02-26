@@ -1,5 +1,18 @@
 body {
     color: blue;
     text-align: center;
-    background: greenyellow;
+    background: rgb(208, 214, 200);
+    margin: 0;
+    padding: 0; 
+}
+#cuerpo{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 2px solid rgb(31, 70, 201);
+    margin: 0 auto;
+}
+
+#cuerpo h1{
+    font-size: 70px;
 }
