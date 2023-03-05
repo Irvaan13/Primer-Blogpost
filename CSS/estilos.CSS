@@ -19,6 +19,12 @@ body {
     border-radius: 5px;
 }
 
+#pies{
+    color: rgb(231, 227, 223);
+    border: 3px solid saddlebrown;
+    background: blueviolet;
+    border-radius: 5px;
+}
 #cuerpo h1{
     font-size: 70px;
 }
